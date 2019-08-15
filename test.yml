@@ -1,0 +1,7 @@
+server: 
+  port: 7501
+spring:
+  security:
+    user:
+     name: xhy
+     password: 123456
