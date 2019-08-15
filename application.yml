@@ -1,2 +1,5 @@
 server: 
   port: 7501
+spring:
+  application:
+    name: micro-eruka-server
